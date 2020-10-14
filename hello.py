@@ -1,1 +1,4 @@
-print('hello! and Welcome')
+def greet():
+  print('hello! and nd Welcome')
+
+
